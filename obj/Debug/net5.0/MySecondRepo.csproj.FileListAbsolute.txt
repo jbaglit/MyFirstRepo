@@ -1,0 +1,16 @@
+C:\Users\jenzen.aglit\source\repos\MySecondRepo\bin\Debug\net5.0\MySecondRepo.exe
+C:\Users\jenzen.aglit\source\repos\MySecondRepo\bin\Debug\net5.0\MySecondRepo.deps.json
+C:\Users\jenzen.aglit\source\repos\MySecondRepo\bin\Debug\net5.0\MySecondRepo.runtimeconfig.json
+C:\Users\jenzen.aglit\source\repos\MySecondRepo\bin\Debug\net5.0\MySecondRepo.runtimeconfig.dev.json
+C:\Users\jenzen.aglit\source\repos\MySecondRepo\bin\Debug\net5.0\MySecondRepo.dll
+C:\Users\jenzen.aglit\source\repos\MySecondRepo\bin\Debug\net5.0\MySecondRepo.pdb
+C:\Users\jenzen.aglit\source\repos\MySecondRepo\obj\Debug\net5.0\MySecondRepo.csproj.AssemblyReference.cache
+C:\Users\jenzen.aglit\source\repos\MySecondRepo\obj\Debug\net5.0\MySecondRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenzen.aglit\source\repos\MySecondRepo\obj\Debug\net5.0\MySecondRepo.AssemblyInfoInputs.cache
+C:\Users\jenzen.aglit\source\repos\MySecondRepo\obj\Debug\net5.0\MySecondRepo.AssemblyInfo.cs
+C:\Users\jenzen.aglit\source\repos\MySecondRepo\obj\Debug\net5.0\MySecondRepo.csproj.CoreCompileInputs.cache
+C:\Users\jenzen.aglit\source\repos\MySecondRepo\obj\Debug\net5.0\MySecondRepo.dll
+C:\Users\jenzen.aglit\source\repos\MySecondRepo\obj\Debug\net5.0\refint\MySecondRepo.dll
+C:\Users\jenzen.aglit\source\repos\MySecondRepo\obj\Debug\net5.0\MySecondRepo.pdb
+C:\Users\jenzen.aglit\source\repos\MySecondRepo\obj\Debug\net5.0\MySecondRepo.genruntimeconfig.cache
+C:\Users\jenzen.aglit\source\repos\MySecondRepo\obj\Debug\net5.0\ref\MySecondRepo.dll
